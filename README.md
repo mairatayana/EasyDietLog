@@ -1,4 +1,4 @@
-# skipInterview
+# EasyDietLog
 API for diet log application
 
 Application description:
