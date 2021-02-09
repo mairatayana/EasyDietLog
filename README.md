@@ -13,3 +13,4 @@ And the API will allow access to create a user, update a user, delete a user and
 
 For the Daily log, each user will have one daily log and he/she can log as many foods as wanted and the day he/she is logging it. It will be possible to get a list of food for the user.
 
+#testing new functions
